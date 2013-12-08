@@ -1,7 +1,7 @@
 clb_mvnrepo
 ===========
 
-Cloudburo public maven repository. The GIT repository consists of the two branches 'snapshots' and 'release' which will contain Cloudburo artifacts released for direct Maven integration. In order to connect to this repository from a Maven POM you have to add the following entries:
+Cloudburo public maven repository. The GIT repository consists of the two branches 'snapshots' and 'releases' which will contain Cloudburo artifacts released for direct Maven integration. In order to connect to this repository from a Maven POM you have to add the following entries:
 
       <repositories>
     	<repository>  
@@ -16,6 +16,6 @@ Cloudburo public maven repository. The GIT repository consists of the two branch
         	<name>Cloudburo Release Repo on Github</name>  
         	<releases><enabled>true</enabled></releases>
             <snapshots><enabled>false</enabled></snapshots>
-        	<url>https://raw.github.com/talfco/clb_mvnrepo/raw/release</url>  
+        	<url>https://raw.github.com/talfco/clb_mvnrepo/raw/releases</url>  
     	</repository>
     </repositories>
