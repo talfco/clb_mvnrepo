@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.cloudburo</groupId>
+  <artifactId>clb-gradle-task</artifactId>
+  <version>1.2.15-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161004.210536</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20161004210536</lastUpdated>
+  </versioning>
+</metadata>
